@@ -1,0 +1,41 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.javebratt.socialauth"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.javebratt.socialauth"
+        },
+        "cordova-plugin-facebook4": {
+            "APP_ID": "1666541556703615",
+            "APP_NAME": "Ioni­c­2­F­i­r­ebase",
+            "PACKAGE_NAME": "com.javebratt.socialauth"
+        },
+        "cordova-plugin-googleplus": {
+            "PACKAGE_NAME": "com.javebratt.socialauth"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.javebratt.socialauth"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.javebratt.socialauth"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.javebratt.socialauth"
+        },
+        "cordova-plugin-x-toast": {
+            "PACKAGE_NAME": "com.javebratt.socialauth"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.javebratt.socialauth"
+        }
+    },
+    "dependent_plugins": {}
+}

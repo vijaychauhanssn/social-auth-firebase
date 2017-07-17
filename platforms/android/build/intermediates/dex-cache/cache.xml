@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/11.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3560fc891bbecd8982acbace15ccead59c3fedd1">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-11.0.2_6061b3e9cdfb4482791837d3a458445f3f18b22a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_ae02dc1a1f4a75b7153bce068079367206f62381.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.24.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0e0e8918eb74e3ee9e82eef6430a4359b2b577d3">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.24.0_e305de3ebdd7bae5208200720080161985e3ad46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_1fadc471903c80a4d171ab39179d210e4d54d262.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/exploded-aar/org.apache.cordova/CordovaLib/6.2.3/debug/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ec0aebee1e488283f9bbef71599301c3fd8dba35">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-6.2.3-debug_04e7a291b399bd224d2afc5158d4894a04b8d18e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_656afeff59c49feb98d7d153250f2341b83d5dac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/11.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a3d07dfddc7c3c7547fb953847589d586f1e2077">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-11.0.2_52802cf7b5b80423667c5ae7d05b6b99e1553a88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.2_e438d4e240e2c213bc1103f937806057b65b9ded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/11.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="885bcb023a9b57ed31c305e2e94e31af909e21c5">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-11.0.2_b239e33fdb37c637892396c32d0921eeab44f13f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_29d20cc2929f4b08f7ee069d5c2e3fe8bef5c76f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_7241a2128716668586539dce6e994da64cfecb28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mercy/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_00abaa6ec5ed1cecbbb4b2ee0d061f87496723ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.2_38704fbbdf602b926b712781af2cf7a1447cc388.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.3.1_575972d16e2e64fe577cdaaeaf9a282d3528e13d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mercy/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_24170fa7cf7e409062aef2f117d44c581675e5e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/exploded-aar/com.android.support/customtabs/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-customtabs-25.3.1_73521bef4fdec4476fe77b81117b1def6d6da084.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_2ace1045bba281d12dbbc67cab2b514f00835cf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_9dd7d4a41a052f6a4ce1ae233c65209dcdb24c10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_637ed67d04dffe1ad091a3009bfa18ec97077449.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.2_892aca3dc89bc69426acb99aecdbdb0d253e5f25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_a267f60e2c3928b87cd1b52ff2b87c6dccf16dfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/mercy/Desktop/Ionic/social-auth-firebase/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_5e111a9a152ec57c49c045bb26d41cf45c2080a0.jar" />
+    </item>
+
+</items>
